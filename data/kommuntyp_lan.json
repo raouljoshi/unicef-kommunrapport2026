@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "2425",
+    "name": "Dorotea",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "2262",
+    "name": "Timrå",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västernorrlands län"
+  },
+  {
+    "id": "2583",
+    "name": "Haparanda",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "2506",
+    "name": "Arjeplog",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "0862",
+    "name": "Emmaboda",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "2039",
+    "name": "Älvdalen",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "2417",
+    "name": "Norsjö",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "0584",
+    "name": "Vadstena",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "0885",
+    "name": "Borgholm",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "0882",
+    "name": "Oskarshamn",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "1444",
+    "name": "Grästorp",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1904",
+    "name": "Skinnskatteberg",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "2510",
+    "name": "Jokkmokk",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "2482",
+    "name": "Skellefteå",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "2560",
+    "name": "Älvsbyn",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "1286",
+    "name": "Ystad",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "2480",
+    "name": "Umeå",
+    "kommuntyp": "Större stad",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "1490",
+    "name": "Borås",
+    "kommuntyp": "Större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1494",
+    "name": "Lidköping",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2581",
+    "name": "Piteå",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "2422",
+    "name": "Sorsele",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "1266",
+    "name": "Hörby",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "0881",
+    "name": "Nybro",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "2082",
+    "name": "Säter",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "2260",
+    "name": "Ånge",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västernorrlands län"
+  },
+  {
+    "id": "1278",
+    "name": "Båstad",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1452",
+    "name": "Tranemo",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2463",
+    "name": "Åsele",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "1263",
+    "name": "Svedala",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "2580",
+    "name": "Luleå",
+    "kommuntyp": "Större stad",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "2421",
+    "name": "Storuman",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "1862",
+    "name": "Degerfors",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "2513",
+    "name": "Överkalix",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "1762",
+    "name": "Munkfors",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1419",
+    "name": "Tjörn",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1737",
+    "name": "Torsby",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1763",
+    "name": "Forshaga",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "2404",
+    "name": "Vindeln",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "0683",
+    "name": "Värnamo",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "0488",
+    "name": "Trosa",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "1383",
+    "name": "Varberg",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Hallands län"
+  },
+  {
+    "id": "1233",
+    "name": "Vellinge",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1291",
+    "name": "Simrishamn",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "0643",
+    "name": "Habo",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1785",
+    "name": "Säffle",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1460",
+    "name": "Bengtsfors",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1761",
+    "name": "Hammarö",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1281",
+    "name": "Lund",
+    "kommuntyp": "Större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1863",
+    "name": "Hällefors",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "2514",
+    "name": "Kalix",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "0684",
+    "name": "Sävsjö",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "0761",
+    "name": "Lessebo",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "0880",
+    "name": "Kalmar",
+    "kommuntyp": "Större stad",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "1481",
+    "name": "Mölndal",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2326",
+    "name": "Berg",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "0860",
+    "name": "Hultsfred",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "2403",
+    "name": "Bjurholm",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "2062",
+    "name": "Mora",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "2161",
+    "name": "Ljusdal",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "2280",
+    "name": "Härnösand",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Västernorrlands län"
+  },
+  {
+    "id": "2029",
+    "name": "Leksand",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "2181",
+    "name": "Sandviken",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "2184",
+    "name": "Hudiksvall",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "1082",
+    "name": "Karlshamn",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Blekinge län"
+  },
+  {
+    "id": "0840",
+    "name": "Mörbylånga",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "0760",
+    "name": "Uppvidinge",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "1488",
+    "name": "Trollhättan",
+    "kommuntyp": "Större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1882",
+    "name": "Askersund",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "1427",
+    "name": "Sotenäs",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1884",
+    "name": "Nora",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "1764",
+    "name": "Grums",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1784",
+    "name": "Arvika",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "0513",
+    "name": "Kinda",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "1492",
+    "name": "Åmål",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2180",
+    "name": "Gävle",
+    "kommuntyp": "Större stad",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "1861",
+    "name": "Hallsberg",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "1439",
+    "name": "Färgelanda",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0665",
+    "name": "Vaggeryd",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1765",
+    "name": "Årjäng",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1885",
+    "name": "Lindesberg",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "2281",
+    "name": "Sundsvall",
+    "kommuntyp": "Större stad",
+    "lan": "Västernorrlands län"
+  },
+  {
+    "id": "0781",
+    "name": "Ljungby",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "2380",
+    "name": "Östersund",
+    "kommuntyp": "Större stad",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "2505",
+    "name": "Arvidsjaur",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "0780",
+    "name": "Växjö",
+    "kommuntyp": "Större stad",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "1446",
+    "name": "Karlsborg",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1284",
+    "name": "Höganäs",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1780",
+    "name": "Karlstad",
+    "kommuntyp": "Större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "0617",
+    "name": "Gnosjö",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1384",
+    "name": "Kungsbacka",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Hallands län"
+  },
+  {
+    "id": "0330",
+    "name": "Knivsta",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Uppsala län"
+  },
+  {
+    "id": "1081",
+    "name": "Ronneby",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Blekinge län"
+  },
+  {
+    "id": "1984",
+    "name": "Arboga",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "0980",
+    "name": "Gotland",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Gotlands län"
+  },
+  {
+    "id": "1495",
+    "name": "Skara",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1280",
+    "name": "Malmö",
+    "kommuntyp": "Storstäder",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1421",
+    "name": "Orust",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0428",
+    "name": "Vingåker",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "1290",
+    "name": "Kristianstad",
+    "kommuntyp": "Större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1083",
+    "name": "Sölvesborg",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Blekinge län"
+  },
+  {
+    "id": "1292",
+    "name": "Ängelholm",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1382",
+    "name": "Falkenberg",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Hallands län"
+  },
+  {
+    "id": "0481",
+    "name": "Oxelösund",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "1473",
+    "name": "Töreboda",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0581",
+    "name": "Norrköping",
+    "kommuntyp": "Större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "0662",
+    "name": "Gislaved",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "2305",
+    "name": "Bräcke",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "1445",
+    "name": "Essunga",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2481",
+    "name": "Lycksele",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "2121",
+    "name": "Ovanåker",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "1401",
+    "name": "Härryda",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2582",
+    "name": "Boden",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "1277",
+    "name": "Åstorp",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "0861",
+    "name": "Mönsterås",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "0480",
+    "name": "Nyköping",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "1461",
+    "name": "Mellerud",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1265",
+    "name": "Sjöbo",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1287",
+    "name": "Trelleborg",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "0687",
+    "name": "Tranås",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1883",
+    "name": "Karlskoga",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "1880",
+    "name": "Örebro",
+    "kommuntyp": "Större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "0331",
+    "name": "Heby",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Uppsala län"
+  },
+  {
+    "id": "1982",
+    "name": "Fagersta",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "1860",
+    "name": "Laxå",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "0680",
+    "name": "Jönköping",
+    "kommuntyp": "Större stad",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1480",
+    "name": "Göteborg",
+    "kommuntyp": "Storstäder",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1864",
+    "name": "Ljusnarsberg",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "2460",
+    "name": "Vännäs",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "2401",
+    "name": "Nordmaling",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "2101",
+    "name": "Ockelbo",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "0482",
+    "name": "Flen",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "0763",
+    "name": "Tingsryd",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "1781",
+    "name": "Kristinehamn",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "0484",
+    "name": "Eskilstuna",
+    "kommuntyp": "Större stad",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "0563",
+    "name": "Valdemarsvik",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "0765",
+    "name": "Älmhult",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "1470",
+    "name": "Vara",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2361",
+    "name": "Härjedalen",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "0686",
+    "name": "Eksjö",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1960",
+    "name": "Kungsör",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "2309",
+    "name": "Krokom",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "1961",
+    "name": "Hallstahammar",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "2584",
+    "name": "Kiruna",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "0512",
+    "name": "Ydre",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "1262",
+    "name": "Lomma",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1272",
+    "name": "Bromölla",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1380",
+    "name": "Halmstad",
+    "kommuntyp": "Större stad",
+    "lan": "Hallands län"
+  },
+  {
+    "id": "1060",
+    "name": "Olofström",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Blekinge län"
+  },
+  {
+    "id": "2284",
+    "name": "Örnsköldsvik",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Västernorrlands län"
+  },
+  {
+    "id": "1493",
+    "name": "Mariestad",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2031",
+    "name": "Rättvik",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "2523",
+    "name": "Gällivare",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "2283",
+    "name": "Sollefteå",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västernorrlands län"
+  },
+  {
+    "id": "1715",
+    "name": "Kil",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "2183",
+    "name": "Bollnäs",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "1282",
+    "name": "Landskrona",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "0604",
+    "name": "Aneby",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1270",
+    "name": "Tomelilla",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1782",
+    "name": "Filipstad",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "2021",
+    "name": "Vansbro",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "0138",
+    "name": "Tyresö",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "2462",
+    "name": "Vilhelmina",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "0580",
+    "name": "Linköping",
+    "kommuntyp": "Större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "1402",
+    "name": "Partille",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1485",
+    "name": "Uddevalla",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2521",
+    "name": "Pajala",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Norrbottens län"
+  },
+  {
+    "id": "0834",
+    "name": "Torsås",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "1080",
+    "name": "Karlskrona",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Blekinge län"
+  },
+  {
+    "id": "1415",
+    "name": "Stenungsund",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0162",
+    "name": "Danderyd",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1273",
+    "name": "Osby",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "0682",
+    "name": "Nässjö",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "1264",
+    "name": "Skurup",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "2034",
+    "name": "Orsa",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "0586",
+    "name": "Mjölby",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "1283",
+    "name": "Helsingborg",
+    "kommuntyp": "Större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "2104",
+    "name": "Hofors",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "1482",
+    "name": "Kungälv",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2083",
+    "name": "Hedemora",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "1275",
+    "name": "Perstorp",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1983",
+    "name": "Köping",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "1438",
+    "name": "Dals-Ed",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1442",
+    "name": "Vårgårda",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1472",
+    "name": "Tibro",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0319",
+    "name": "Älvkarleby",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Uppsala län"
+  },
+  {
+    "id": "1466",
+    "name": "Herrljunga",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1257",
+    "name": "Örkelljunga",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1783",
+    "name": "Hagfors",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "2061",
+    "name": "Smedjebacken",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "0642",
+    "name": "Mullsjö",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "0182",
+    "name": "Nacka",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1293",
+    "name": "Hässleholm",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1907",
+    "name": "Surahammar",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "2409",
+    "name": "Robertsfors",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västerbottens län"
+  },
+  {
+    "id": "1730",
+    "name": "Eda",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "0486",
+    "name": "Strängnäs",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "0767",
+    "name": "Markaryd",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "1261",
+    "name": "Kävlinge",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "2080",
+    "name": "Falun",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "0381",
+    "name": "Enköping",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Uppsala län"
+  },
+  {
+    "id": "1981",
+    "name": "Sala",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "2023",
+    "name": "Malung-Sälen",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "0883",
+    "name": "Västervik",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "1496",
+    "name": "Skövde",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0583",
+    "name": "Motala",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "0561",
+    "name": "Åtvidaberg",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "0382",
+    "name": "Osthammar",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Uppsala län"
+  },
+  {
+    "id": "0180",
+    "name": "Stockholm",
+    "kommuntyp": "Storstäder",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0884",
+    "name": "Vimmerby",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "1980",
+    "name": "Västerås",
+    "kommuntyp": "Större stad",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "1267",
+    "name": "Höör",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1315",
+    "name": "Hylte",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Hallands län"
+  },
+  {
+    "id": "0685",
+    "name": "Vetlanda",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Jönköpings län"
+  },
+  {
+    "id": "0188",
+    "name": "Norrtälje",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0187",
+    "name": "Vaxholm",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1881",
+    "name": "Kumla",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "0582",
+    "name": "Söderköping",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "1276",
+    "name": "Klippan",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1430",
+    "name": "Munkedal",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1484",
+    "name": "Lysekil",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0461",
+    "name": "Gnesta",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "0483",
+    "name": "Katrineholm",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Södermanlands län"
+  },
+  {
+    "id": "1498",
+    "name": "Tidaholm",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0126",
+    "name": "Huddinge",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0127",
+    "name": "Botkyrka",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0380",
+    "name": "Uppsala",
+    "kommuntyp": "Större stad",
+    "lan": "Uppsala län"
+  },
+  {
+    "id": "1435",
+    "name": "Tanum",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1285",
+    "name": "Eslöv",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1381",
+    "name": "Laholm",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Hallands län"
+  },
+  {
+    "id": "1489",
+    "name": "Alingsås",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1407",
+    "name": "Öckerö",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0125",
+    "name": "Ekerö",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1487",
+    "name": "Vänersborg",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1491",
+    "name": "Ulricehamn",
+    "kommuntyp": "Lågpendlingskommun nära större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2026",
+    "name": "Gagnef",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "2084",
+    "name": "Avesta",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "0181",
+    "name": "Södertälje",
+    "kommuntyp": "Större stad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0560",
+    "name": "Boxholm",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "0115",
+    "name": "Vallentuna",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "2321",
+    "name": "Åre",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "2182",
+    "name": "Söderhamn",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "0821",
+    "name": "Högsby",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Kalmar län"
+  },
+  {
+    "id": "1499",
+    "name": "Falköping",
+    "kommuntyp": "Mindre stad/tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1465",
+    "name": "Svenljunga",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0163",
+    "name": "Sollentuna",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0160",
+    "name": "Täby",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "2132",
+    "name": "Nordanstig",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Gävleborgs län"
+  },
+  {
+    "id": "2085",
+    "name": "Ludvika",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "1962",
+    "name": "Norberg",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västmanlands län"
+  },
+  {
+    "id": "1471",
+    "name": "Götene",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1497",
+    "name": "Hjo",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0140",
+    "name": "Nykvarn",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1760",
+    "name": "Storfors",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1441",
+    "name": "Lerum",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "1230",
+    "name": "Staffanstorp",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1291",
+    "name": "Östra Göinge",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1486",
+    "name": "Strömstad",
+    "kommuntyp": "Landsbygdskommun med besöksnäring",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0186",
+    "name": "Lidingö",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1260",
+    "name": "Bjuv",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "0305",
+    "name": "Håbo",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Uppsala län"
+  },
+  {
+    "id": "2313",
+    "name": "Strömsund",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "0562",
+    "name": "Finspång",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Östergötlands län"
+  },
+  {
+    "id": "0128",
+    "name": "Salem",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0183",
+    "name": "Sundbyberg",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1214",
+    "name": "Svalöv",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Skåne län"
+  },
+  {
+    "id": "1443",
+    "name": "Bollebygd",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "2303",
+    "name": "Ragunda",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Jämtlands län"
+  },
+  {
+    "id": "1447",
+    "name": "Gullspång",
+    "kommuntyp": "Pendlingskommun nära mindre tätort",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0764",
+    "name": "Alvesta",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Kronobergs län"
+  },
+  {
+    "id": "0191",
+    "name": "Sigtuna",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "2081",
+    "name": "Borlänge",
+    "kommuntyp": "Större stad",
+    "lan": "Dalarnas län"
+  },
+  {
+    "id": "0184",
+    "name": "Solna",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0192",
+    "name": "Nynäshamn",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0120",
+    "name": "Värmdö",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0139",
+    "name": "Upplands-Bro",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "2282",
+    "name": "Kramfors",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Västernorrlands län"
+  },
+  {
+    "id": "0123",
+    "name": "Järfälla",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1766",
+    "name": "Sunne",
+    "kommuntyp": "Landsbygdskommun",
+    "lan": "Värmlands län"
+  },
+  {
+    "id": "1814",
+    "name": "Lekeberg",
+    "kommuntyp": "Pendlingskommun nära större stad",
+    "lan": "Örebro län"
+  },
+  {
+    "id": "0114",
+    "name": "Upplands väsby",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "0117",
+    "name": "Österåker",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  },
+  {
+    "id": "1462",
+    "name": "Lilla Edet",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Västra Götaland län"
+  },
+  {
+    "id": "0136",
+    "name": "Haninge",
+    "kommuntyp": "Pendlingskommun nära storstad",
+    "lan": "Stockholms län"
+  }
+]

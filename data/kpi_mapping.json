@@ -1,0 +1,56 @@
+{
+  "year": 2024,
+  "source": "Kolada (RKA) via api.kolada.se/v3",
+  "methodology_ref": "Metodbilaga_-_Unicef_sveriges_Kommunrapport_2026.pdf",
+  "note": "Inverterade indikatorer (invert=true) multipliceras med -1 efter z-standardisering så högre värde alltid betyder större investering i barns rättigheter.",
+  "excluded_municipalities": ["Malå", "Ale", "Burlöv", "Mark", "Tierp", "Övertorneå"],
+  "population_kpi": "N01951",
+  "indicators": [
+    {"key": "kostnad_forskola",       "sector": "Förskola",     "kolada_id": "N11008", "invert": false, "title": "Kostnad förskola, kr/inskrivet barn", "unit": "kr"},
+    {"key": "barn_grupp_1_3",         "sector": "Förskola",     "kolada_id": "N11044", "invert": true,  "title": "Barn per barngrupp 1–3 år (lägeskommun)", "unit": "antal"},
+    {"key": "barn_grupp_4_5",         "sector": "Förskola",     "kolada_id": "N11704", "invert": true,  "title": "Barn per barngrupp 4–5 år (lägeskommun)", "unit": "antal"},
+    {"key": "forskollarartathet",     "sector": "Förskola",     "kolada_id": "N11811", "invert": true,  "title": "Förskollärartäthet, barn/lärare m. förskollärarlegitimation (lägeskommun)", "unit": "antal"},
+    {"key": "inskrivna_forskola",     "sector": "Förskola",     "kolada_id": "N11800", "invert": false, "title": "Barn 1–5 år inskrivna i förskola, andel", "unit": "%"},
+
+    {"key": "kostnad_grundskola",     "sector": "Grundskola",   "kolada_id": "N15027", "invert": false, "title": "Kostnad grundskola F–9, hemkommun, kr/elev", "unit": "kr"},
+    {"key": "elev_larare",            "sector": "Grundskola",   "kolada_id": "N15033", "invert": true,  "title": "Elever/lärare (heltidstjänst) i grundskola åk 1–9 (lägeskommun)", "unit": "antal"},
+    {"key": "behoriga_larare",        "sector": "Grundskola",   "kolada_id": "N15813", "invert": false, "title": "Lärare m. lärarlegitimation och behörighet i grundskola åk 1–9, andel (lägeskommun)", "unit": "%"},
+    {"key": "fritidshem_examen",      "sector": "Grundskola",   "kolada_id": "N13015", "invert": false, "title": "Årsarbetare i fritidshem med pedagogisk högskoleexamen, andel (lägeskommun)", "unit": "%"},
+    {"key": "kostnad_elevhalsa",      "sector": "Grundskola",   "kolada_id": "N15014", "invert": false, "title": "Kostnad elevhälsa i kommunal grundskola åk 1–9, kr/elev", "unit": "kr"},
+    {"key": "kostnad_fritidshem",     "sector": "Grundskola",   "kolada_id": "N13008", "invert": false, "title": "Kostnad fritidshem, kr/inskrivet barn", "unit": "kr"},
+
+    {"key": "kostnad_oppna_insatser", "sector": "Socialtjänst", "kolada_id": "N33009", "invert": false, "title": "Kostnad öppna insatser barn och unga, kr/inv", "unit": "kr"},
+    {"key": "utredningstid",          "sector": "Socialtjänst", "kolada_id": "U33401", "invert": true,  "title": "Utredningstid barn/ungdom 0–20 år, medelvärde", "unit": "dagar"},
+    {"key": "handlaggare_socionom",   "sector": "Socialtjänst", "kolada_id": "U33816", "invert": false, "title": "Handläggare m. socionomutbildning och minst ett års erfarenhet av barnutredningar, andel", "unit": "%"},
+
+    {"key": "kostnad_kultur",         "sector": "Kultur",       "kolada_id": "N09100", "invert": false, "title": "Kostnad kulturverksamhet, kr/inv", "unit": "kr"},
+    {"key": "bibliotek_aktiviteter",  "sector": "Kultur",       "kolada_id": "N09805", "invert": false, "title": "Aktivitetstillfällen för barn och unga i kommunala bibliotek, antal/1000 inv 0–18 år", "unit": "antal/1000"},
+    {"key": "oppethallande_bibliotek","sector": "Kultur",       "kolada_id": "N09808", "invert": false, "title": "Öppethållande av huvudbibliotek (eller enskilda bibliotek) med längst öppettid, h/v", "unit": "h/v"},
+
+    {"key": "kostnad_fritid",         "sector": "Fritid",       "kolada_id": "N09102", "invert": false, "title": "Kostnad fritidsverksamhet, kr/inv", "unit": "kr"},
+    {"key": "idrottshallar",          "sector": "Fritid",       "kolada_id": "U09898", "invert": false, "title": "Idrottshallar, antal/1000 inv 7–20 år", "unit": "antal/1000"},
+    {"key": "deltagartillfallen",     "sector": "Fritid",       "kolada_id": "U09800", "invert": false, "title": "Deltagartillfällen i idrottsföreningar, antal/inv 7–20 år", "unit": "antal/inv"}
+  ],
+  "tabell2_validation": {
+    "Aktivitetstillfällen i bibliotek":          {"mean": 72.56,    "median": 45.76,    "sd": 98.37,    "min": 4.17,    "max": 1004.95, "missing": 3,  "kolada_id": "N09805"},
+    "Barn 1–5 år inskrivna i förskola (%)":      {"mean": 86.84,    "median": 87.57,    "sd": 3.90,     "min": 69.37,   "max": 100.00,  "missing": 0,  "kolada_id": "N11800"},
+    "Barn per barngrupp 1–3 år":                 {"mean": 12.07,    "median": 12.10,    "sd": 1.66,     "min": 1.00,    "max": 17.20,   "missing": 7,  "kolada_id": "N11044"},
+    "Barn per barngrupp 4–5 år":                 {"mean": 16.41,    "median": 16.50,    "sd": 3.35,     "min": 3.00,    "max": 32.50,   "missing": 11, "kolada_id": "N11704"},
+    "Deltagartillfällen i idrottsföreningar":    {"mean": 28.33,    "median": 28.55,    "sd": 8.65,     "min": 7.03,    "max": 60.98,   "missing": 0,  "kolada_id": "U09800"},
+    "Elever/lärare i grundskola":                {"mean": 11.35,    "median": 11.35,    "sd": 1.36,     "min": 7.24,    "max": 15.19,   "missing": 0,  "kolada_id": "N15033"},
+    "Förskollärartäthet":                        {"mean": 11.50,    "median": 10.70,    "sd": 3.14,     "min": 6.00,    "max": 24.50,   "missing": 0,  "kolada_id": "N11811"},
+    "Handläggare med socionomutbildning (%)":    {"mean": 82.08,    "median": 83.33,    "sd": 15.12,    "min": 25.00,   "max": 100.00,  "missing": 7,  "kolada_id": "U33816"},
+    "Idrottshallar per 1000 inv 7–20år":         {"mean": 1.76,     "median": 1.41,     "sd": 1.17,     "min": 0.00,    "max": 9.35,    "missing": 31, "kolada_id": "U09898"},
+    "Kostnad elevhälsa, kr/elev":                {"mean": 5505,     "median": 5192,     "sd": 1735,     "min": 2362,    "max": 16563,   "missing": 1,  "kolada_id": "N15014"},
+    "Kostnad fritidshem, kr/inskrivet barn":     {"mean": 46845,    "median": 46219,    "sd": 8822,     "min": 22511,   "max": 81397,   "missing": 0,  "kolada_id": "N13008"},
+    "Kostnad fritidsverksamhet, kr/inv":         {"mean": 2320,     "median": 2291,     "sd": 781,      "min": 417,     "max": 5652,    "missing": 0,  "kolada_id": "N09102"},
+    "Kostnad förskola, kr/inskrivet barn":       {"mean": 194431,   "median": 193512,   "sd": 16149,    "min": 146665,  "max": 250699,  "missing": 1,  "kolada_id": "N11008"},
+    "Kostnad grundskola, kr/elev":               {"mean": 143539,   "median": 140419,   "sd": 16443,    "min": 112868,  "max": 209219,  "missing": 0,  "kolada_id": "N15027"},
+    "Kostnad kulturverksamhet, kr/inv":          {"mean": 1534,     "median": 1479,     "sd": 448,      "min": 816,     "max": 3478,    "missing": 0,  "kolada_id": "N09100"},
+    "Kostnad öppna insatser, kr/inv":            {"mean": 761,      "median": 755,     "sd": 357,      "min": 0,       "max": 2556,    "missing": 0,  "kolada_id": "N33009"},
+    "Lärare med lärarlegitimation och behörighet (%)": {"mean": 69.78, "median": 70.33, "sd": 8.07,    "min": 43.48,   "max": 91.25,   "missing": 0,  "kolada_id": "N15813"},
+    "Utredningstid (dagar)":                     {"mean": 99.18,    "median": 100.00,  "sd": 16.01,    "min": 22.00,   "max": 152.00,  "missing": 95, "kolada_id": "U33401"},
+    "Årsarbetare i fritidshem (%)":              {"mean": 35.71,    "median": 35.65,    "sd": 14.69,    "min": 0.00,    "max": 73.00,   "missing": 0,  "kolada_id": "N13015"},
+    "Öppethållande huvudbibliotek (h/v)":        {"mean": 61.86,    "median": 52.00,    "sd": 27.69,    "min": 12.00,   "max": 268.00,  "missing": 9,  "kolada_id": "N09808"}
+  }
+}

@@ -1,0 +1,14 @@
+# Local dev server
+server.py
+
+# Data pipeline scripts (not needed at runtime)
+scripts/
+
+# Source Excel files
+data/*.xlsx
+
+# IDE / tooling
+.claude/
+.DS_Store
+*.py[cod]
+__pycache__/

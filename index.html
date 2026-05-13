@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kommunrapport 2026 — Peer Benchmark</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+<body>
+
+<a class="skip-nav" href="#main-viz">Hoppa till visualisering</a>
+
+<header>
+  <div class="hero-inner">
+
+    <div class="hero-left">
+      <a href="https://www.unicef.se" class="unicef-logo-link" target="_blank" rel="noopener noreferrer" aria-label="UNICEF Sverige">
+        <svg class="unicef-logo-svg" viewBox="0 0 168 44" aria-hidden="true" focusable="false">
+          <!-- Globe outline -->
+          <circle cx="20" cy="22" r="15" fill="none" stroke="#00AEEF" stroke-width="2"/>
+          <!-- Longitude lines -->
+          <ellipse cx="20" cy="22" rx="7" ry="15" fill="none" stroke="#00AEEF" stroke-width="1.4"/>
+          <!-- Latitude line -->
+          <line x1="5" y1="22" x2="35" y2="22" stroke="#00AEEF" stroke-width="1.4"/>
+          <!-- Olive branch left -->
+          <path d="M5 28 Q9 32 14 29 Q10 34 5 35" stroke="#00AEEF" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+          <path d="M5 28 Q7 25 11 26" stroke="#00AEEF" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+          <!-- Olive branch right -->
+          <path d="M35 28 Q31 32 26 29 Q30 34 35 35" stroke="#00AEEF" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+          <path d="M35 28 Q33 25 29 26" stroke="#00AEEF" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+          <!-- UNICEF wordmark -->
+          <text x="44" y="31" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif"
+                font-size="22" font-weight="900" fill="#00AEEF" letter-spacing="2">UNICEF</text>
+        </svg>
+        <span class="unicef-tagline">for every child</span>
+      </a>
+
+      <div class="hero-title-block">
+        <h1 class="hero-title">
+          Kommunrapport 2026
+          <span class="hero-title-accent">Peer Benchmark</span>
+        </h1>
+        <p class="hero-desc">
+          UNICEF Sveriges ranking av 284 kommuner på barns välfärd — förskola, grundskola, fritid, kultur och socialtjänst.
+          Jämför din kommuns resultat mot statistiskt relevanta peer-kommuner.
+        </p>
+        <div class="hero-links">
+          <a href="https://www.unicef.se/vad-vi-gor/paverkan/kommunrapport" class="hero-link" target="_blank" rel="noopener noreferrer">
+            <svg viewBox="0 0 16 16" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 12 L12 4M6 4h6v6"/></svg>
+            Läs rapporten (PDF)
+          </a>
+          <a href="https://www.unicef.se/vad-vi-gor/paverkan/kommunrapport/sok" class="hero-link" target="_blank" rel="noopener noreferrer">
+            <svg viewBox="0 0 16 16" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 12 L12 4M6 4h6v6"/></svg>
+            Officiellt sökverktyg
+          </a>
+          <span class="hero-link-note">unicef.se</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-right">
+      <p class="hero-search-label">Välj din kommun för att starta</p>
+      <div class="search-wrapper">
+        <label for="search-input" class="sr-only">Sök kommun</label>
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Sök bland 284 kommuner…"
+          autocomplete="off"
+          aria-autocomplete="list"
+          aria-controls="search-list"
+          aria-haspopup="listbox"
+        >
+        <ul id="search-list" role="listbox" hidden></ul>
+      </div>
+      <p class="hero-search-hint">Klicka sedan på en prick i diagrammet eller bläddra bland peer-kommunerna →</p>
+      <div class="mobile-nudge" role="note">
+        <svg viewBox="0 0 20 20" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="2" y="3" width="16" height="11" rx="1.5"/>
+          <path d="M7 17h6M10 14v3"/>
+        </svg>
+        <span>Filtren och de interaktiva diagrammen fungerar optimalt på en dator — sök gärna din kommun för en snabb överblick</span>
+      </div>
+    </div>
+
+  </div>
+</header>
+
+<main>
+  <p id="error-msg" hidden></p>
+
+  <div class="layout">
+    <aside id="filter-sidebar" aria-label="Kommuninfo och peer-filter" hidden></aside>
+    <section id="main-viz" aria-label="Beeswarm-visualisering">
+      <div class="viz-controls" id="viz-controls">
+        <div class="view-toggle-group" role="group" aria-label="Välj vy">
+          <button class="view-btn active" id="btn-beeswarm" aria-pressed="true">Beeswarm</button>
+          <button class="view-btn" id="btn-table" aria-pressed="false">Tabell</button>
+        </div>
+        <div class="viz-actions">
+          <button class="action-btn" id="btn-copy-url" aria-label="Kopiera delbar länk till urklipp">Dela länk</button>
+          <button class="action-btn" id="btn-csv" aria-label="Ladda ner data som CSV-fil">↓ CSV</button>
+          <button class="action-btn" id="btn-png" aria-label="Spara visualisering som PNG-bild">↓ PNG</button>
+        </div>
+      </div>
+      <div id="legend" aria-label="Kommuntypslegend"></div>
+    </section>
+    <aside id="peer-sidebar" aria-label="Peer-kommuner" hidden></aside>
+  </div>
+</main>
+
+<div id="tooltip" role="tooltip" style="display:none"></div>
+
+<style>.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border-width:0}</style>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
