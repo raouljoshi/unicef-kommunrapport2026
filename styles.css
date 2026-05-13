@@ -250,8 +250,7 @@ main {
   flex-shrink: 0;
   position: sticky;
   top: 1rem;
-  max-height: calc(100vh - 2rem);
-  overflow-y: auto;
+  align-self: flex-start;
 }
 #peer-sidebar[hidden] { display: none; }
 
@@ -429,7 +428,7 @@ main {
   gap: 0.2rem;
   margin-bottom: 0.35rem;
 }
-.fp-lan-list { max-height: 110px; }
+.fp-lan-list { max-height: none; }
 .fp-checkbox {
   display: flex;
   align-items: center;
@@ -1026,8 +1025,8 @@ circle.dot { cursor: pointer; }
     border: 1px solid rgba(0, 174, 239, 0.22);
     border-radius: 8px;
     padding: 0.65rem 0.8rem;
-    font-size: 0.74rem;
-    color: rgba(255, 255, 255, 0.62);
+    font-size: 0.82rem;
+    color: rgba(255, 255, 255, 0.68);
     line-height: 1.55;
   }
   .mobile-nudge svg {
